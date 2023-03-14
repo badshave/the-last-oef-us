@@ -1,0 +1,17 @@
+#EXTINF:-1 xui-id="3397007" tvg-name="The Last of Us S01E09" tvg-logo="https://image.tmdb.org/t/p/w1280/qFouIBgN3Jgba7LnuRmkTAohh07.jpg" group-title="Drama",The Last of Us S01E09
+http://watch.breakingcabletv.com:80/play/fn4ZjAp3EcC7HtWFcJk-CcRSffpBS38Vk8IMPhWU3HwS3t7WRQRfDjeSEkEnhAue#.mkv
+#EXTINF:-1 xui-id="3396209" tvg-name="The Last of Us S01E08" tvg-logo="https://image.tmdb.org/t/p/w1280/6DHQgB85iKMcabcKvC9HSDH3UDo.jpg" group-title="Drama",The Last of Us S01E08
+http://watch.breakingcabletv.com:80/play/fn4ZjAp3EcC7HtWFcJk-CcRSffpBS38Vk8IMPhWU3Hy33uc7GzvY5M8CMGD6tZ5X#.mkv
+#EXTINF:-1 xui-id="3395532" tvg-name="The Last of Us S01E07" tvg-logo="https://image.tmdb.org/t/p/w1280/grrTkpBGcQSgu78iResLgbJlvUE.jpg" group-title="Drama",The Last of Us S01E07
+http://watch.breakingcabletv.com:80/play/fn4ZjAp3EcC7HtWFcJk-CcRSffpBS38Vk8IMPhWU3HwHVwjUko7bc_BwGVX2ggjN#.mk
+#EXTINF:-1 xui-id="3395053" tvg-name="The Last of Us S01E06" tvg-logo="https://image.tmdb.org/t/p/w1280/zW9AIy0PVhYfmukqBcUvlvi4mKc.jpg" group-title="Drama",The Last of Us S01E06
+http://watch.breakingcabletv.com:80/play/fn4ZjAp3EcC7HtWFcJk-CcRSffpBS38Vk8IMPhWU3HxjrBxRYmNOG3_upGiM6HjA#.mkv
+#EXTINF:-1 xui-id="3394048" tvg-name="The Last of Us S01E05" tvg-logo="https://image.tmdb.org/t/p/w1280/veaxeXMVA3mZGOP8cxceKRWm1LE.jpg" group-title="Drama",The Last of Us S01E05
+http://watch.breakingcabletv.com:80/play/fn4ZjAp3EcC7HtWFcJk-CcRSffpBS38Vk8IMPhWU3HybnADsV0IIvA3biNJkzwE5#.mkv
+#EXTINF:-1 xui-id="3393191" tvg-name="The Last of Us S01E04" tvg-logo="https://image.tmdb.org/t/p/w1280/szQ95jxKNrYWnCAJx8VC51iws5d.jpg" group-title="Drama",The Last of Us S01E04
+http://watch.breakingcabletv.com:80/play/fn4ZjAp3EcC7HtWFcJk-CcRSffpBS38Vk8IMPhWU3HxvcTlFTdoR6DTsQApJoV6u#.mkv
+#EXTINF:-1 xui-id="3390848" tvg-name="The Last of Us S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/bzy4hAtkY3OOInY4q6MJigLmC1m.jpg" group-title="Drama",The Last of Us S01E03
+http://watch.breakingcabletv.com:80/play/fn4ZjAp3EcC7HtWFcJk-CcRSffpBS38Vk8IMPhWU3Hx2Sfljoq3Bdlo-05CYUNdE#.mkv
+#EXTINF:-1 xui-id="3388540" tvg-name="48 Hours S35E14" tvg-logo="https://image.tmdb.org/t/p/w1280/4cz3j26OeVFe8WLFV9DEcVzrCrZ.jpg" group-title="News",48 Hours S35E14
+http://watch.breakingcabletv.com:80/play/fn4ZjAp3EcC7HtWFcJk-CROAq41-1LxwgHMiWdjDPJ2UiVCmIzwiFwf9oZur-Z2h#.mkv
+
